@@ -1,4 +1,5 @@
-# TMA4267-Linstat
+### TMA4267 Linear Statistical Models
+# 3-factor 2-level experiment of the rheological properties of noodles
 TMA4267 Linear Statistical Models, https://www.math.ntnu.no/emner/TMA4267/2023v/
 ## Abstract
 This study aimed to investigate the effects of cook time, washing soda concentration, and water
